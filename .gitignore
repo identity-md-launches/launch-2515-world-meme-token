@@ -1,0 +1,10 @@
+# Foundry build artifacts
+out/
+cache/
+broadcast/
+
+# Local scratch space for the contributor; deleted before verification
+test/scratch/
+
+# Empty leftover directory from an earlier extraction; nothing in it is used
+lib/openzeppelin-contracts/
